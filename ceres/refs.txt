@@ -1,0 +1,21 @@
+ceres 官方github地址
+https://github.com/ceres-solver/ceres-solver.git
+
+ceres 官方教程地址
+http://ceres-solver.org/nnls_tutorial.html#hello-world
+
+ceres 使用说明 指定路径安装
+https://blog.csdn.net/u013341645/article/details/78554415
+
+BAL 数据集地址
+http://grail.cs.washington.edu/projects/bal/
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+Bundle Adjustment 光束法平差
+https://scm_mos.gitlab.io/vision/bundle-adjustment/
+
+深入理解图优化与g2o：g2o篇
+https://www.cnblogs.com/gaoxiang12/p/5304272.html
+
+Bundle Adjustment in the Large 数据集
+http://grail.cs.washington.edu/projects/bal/
+
+Bundle Adjustment – Part 1: Jacobians
+https://www.telesens.co/2016/10/13/bundle-adjustment-part-1-jacobians/
+
+由Google Log库glog循环打印到一行引发的C++知识点思考
+https://blog.csdn.net/lt123345/article/details/52355900

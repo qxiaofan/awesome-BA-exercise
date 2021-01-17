@@ -1,0 +1,18 @@
+手写Bundle Adjustment（三）高斯牛顿法实现BA求解PnP
+https://blog.csdn.net/qq_41814939/article/details/82501664
+
+LidarSLAM - 第六次作业
+https://xiaotaoguo.com/lidarSLAM-hw6/
+
+基于图优化的激光 SLAM 方法
+https://xiaotaoguo.com/lidarSLAM-backend
+
+Bundle Adjustment 2-View
+https://github.com/cashiwamochi/SimpleBundleAdjustment
+
+Eigen子矩阵操作(block)
+https://blog.csdn.net/qq_27251141/article/details/90442072
+
+
+
+
